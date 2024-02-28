@@ -1,6 +1,6 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FErrorxCode&psig=AOvVaw3PfaJt8oatSW2RVBbJacJg&ust=1709208854053000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjn16aBzoQDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Pal Patel</h1>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F242%2F482%2Fnon_2x%2Ffemale-developer-vector.jpg&tbnid=fhrFbEczon1fOM&vet=12ahUKEwj35cP2gM6EAxXZ5TgGHeOuDtIQMyghegUIARDIAQ..i&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Ffemale-programmer&docid=7q3LD7bXLjW8QM&w=613&h=490&q=female%20programmer%20image&ved=2ahUKEwj35cP2gM6EAxXZ5TgGHeOuDtIQMyghegUIARDIAQ">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/Pal_523/collections/6999717-coder-github">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Expense Management System and Competitive Coding**
